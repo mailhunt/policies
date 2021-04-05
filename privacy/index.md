@@ -9,8 +9,6 @@ _Last updated: March 21, 2021_
 
 The privacy of your data — and it is your data, not ours! — is a big deal to us. In this policy, we lay out: what data we collect and why; how your data is handled; and your rights to your data. We promise we never sell your data: never have, never will.
 
-This policy applies to all products built and maintained by PROXIMA B SASU including mailhunt (all versions) and mailhunt Help Center. For candidates applying to jobs at PROXIMA B SASU, please review our [Recruitment Privacy policy](recruitment/index.md).
-
 ## What we collect and why
 
 Our guiding principle is to collect only what we need. Here’s what that means in practice:
@@ -69,8 +67,6 @@ Our default practice is to not access your information. The only times we’ll e
 
 **When required under applicable law.**
 
-PROXIMA B SASU is a FRENCH company, but all data infrastructure are located in the US.
-
 - If FRANCE or US law enforcement authorities have the necessary warrant, criminal subpoena, or court order requiring we share data, we have to comply. Otherwise, we flat-out reject requests from local and federal law enforcement when they seek data. And unless we’re legally prevented from it, we’ll always inform you when such requests are made. In the event a government authority outside FRANCE approaches mailhunt with a request, our default stance is to refuse unless the FRANCE government compels us to comply through procedures outlined in a mutual legal assistance treaty or agreement. **_We have never received a National Security Letter or Foreign Intelligence Surveillance Act (FISA) order._**
 - If we get an informal request from any person, organization, or entity, we do not assist. If you are an account owner who wants to export data from their accounts, you can do so directly by contacting contact@mailhunt.io.
 - If we are audited by a tax authority, we may be required to share billing-related information. If that happens, we only share the bare minimum needed such as billing addresses and tax exemption information.
@@ -94,7 +90,7 @@ At mailhunt, we apply the same data rights to all customers, regardless of their
 
 Many of these rights can be exercised by signing in and directly updating your account information.
 
-If you have questions about exercising these rights or need assistance, please contact us at [contact@mailhunt.io](mailto:contact@mailhunt.io) or at PROXIMA B SASU, . For requests to delete personal information or know what personal information has been collected, we will first verify your identity using a combination of at least two pieces of information already collected including your user email address. If an authorized agent is corresponding on your behalf, we will first need written consent with a signature from the account holder before proceeding.
+If you have questions about exercising these rights or need assistance, please contact us at [contact@mailhunt.io](mailto:contact@mailhunt.io). For requests to delete personal information or know what personal information has been collected, we will first verify your identity using a combination of at least two pieces of information already collected including your user email address. If an authorized agent is corresponding on your behalf, we will first need written consent with a signature from the account holder before proceeding.
 
 If you are in the EU, you can identify your specific authority to file a complaint or find out more about GDPR, at [https://edpb.europa.eu/about-edpb/board/members_en](https://edpb.europa.eu/about-edpb/board/members_en).
 

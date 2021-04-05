@@ -9,7 +9,6 @@ description: The commercial license is designed to for you to use mailhunt in co
 
 This Software License Agreement (the “Agreement”) is between:
 
-- PROXIMA B SASU (“Company”, “mailhunt”), located at 15 Avenue Sainte Foy, 92200 Neuilly-sur-Seine, FRANCE,
 - and You (including your agents and affiliates), a commercial licensee of mailhunt's software.
 
 This license has been purchased by {{stripe_buyer_name}} (email: {{stripe_buyer_email}}) on {{stripe_buy_date}}, and is valid until {{license_end_date}}.

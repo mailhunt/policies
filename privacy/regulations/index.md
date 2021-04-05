@@ -13,7 +13,7 @@ If you have any questions, comments, or concerns about our [Privacy policy](../i
 
 ## European Union General Data Protection Regulation (GDPR)
 
-PROXIMA B SASU is a FRENCH company and our data infrastructure is currently based in the US. That means if you are in another country in the world and you use our products, your data are transferred to the US. The EU has stronger privacy laws than the US and a core tenet of the GDPR is that if you transfer any personal data of EU residents out of the EU, you must protect it to the same level as guaranteed under EU law. There are two factors to this:
+Mailhunt and our data infrastructure is currently based in the US. That means if you are in another country in the world and you use our products, your data are transferred to the US. The EU has stronger privacy laws than the US and a core tenet of the GDPR is that if you transfer any personal data of EU residents out of the EU, you must protect it to the same level as guaranteed under EU law. There are two factors to this:
 
 1. The practices that businesses take handling personal data; and
 2. The laws of the countries where you transfer the EU personal data to

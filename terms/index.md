@@ -9,9 +9,9 @@ _Last updated: March 21, 2021_
 
 From everyone at mailhunt, thank you for using our products! We build them to help you do your best work. Because we don't know every one of our customers personally, we have to put in place some Terms of Service to help keep the ship afloat.
 
-When we say “Company”, “we”, “our”, or “us” in this document, we are referring to PROXIMA B SASU, located at 15 Avenue Sainte Foy, 92200 Neuilly-sur-Seine, FRANCE. PROXIMA B SASU is the parent company creating all mailhunt products, though PROXIMA B SASU's economic activity is not limited to mailhunt.
+When we say “Company”, “we”, “our”, or “us” in this document, we are referring to mailhunt, located at INDIA. 
 
-When we say “Services”, we mean any mailhunt product created and maintained by PROXIMA B SASU, and only those related to mailhunt. That includes [mailhunt's web application](https://mailhunt.io) (all versions), [mailhunt Help Center](https://help.mailhunt.io), [mailhunt-js](https://github.com/mailhunthq/mailhunt-js), whether delivered within a web browser, desktop application, mobile application, or another format.
+When we say “Services”, we mean any mailhunt product related to mailhunt. That includes [mailhunt's web application](https://mailhunt.io) (all versions), [mailhunt Help Center](https://help.mailhunt.io), [mailhunt-js](https://github.com/mailhunthq/mailhunt-js), whether delivered within a web browser, desktop application, mobile application, or another format.
 
 When we say “You” or “your”, we are referring to the people or organizations that own an account with one or more of our Services.
 

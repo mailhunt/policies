@@ -23,4 +23,4 @@ Bad refund policies are infuriating. You feel like the company is just trying to
 
 At the end of the day, nearly everything on the edges comes down to a case-by-case basis. [Send us a note](mailto:contact@mailhunt.io), tell us what's up, and we'll work with you to make sure you’re happy.
 
-\*_This policy applies to any product created and owned by PROXIMA B SASU. That includes any version of mailhunt._
+\*_This policy applies to any product created and owned by mailhunt.
